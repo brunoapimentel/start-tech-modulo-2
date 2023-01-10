@@ -1,4 +1,4 @@
-package piscina;
+package lista1e2.piscina;
 
 public class Piscina {
     private double largura;

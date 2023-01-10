@@ -1,4 +1,4 @@
-package dnd;
+package lista3.dnd;
 
 import java.util.Random;
 

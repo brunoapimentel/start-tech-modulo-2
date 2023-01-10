@@ -1,4 +1,4 @@
-package notasalunos;
+package lista1e2.notasalunos;
 
 public class Aluno {
     private String nome;

@@ -1,11 +1,11 @@
-package grupoalunos;
+package aulas.encapsulamento;
 
 import utils.Leitor;
 
 public class Main {
     public static void main(String[] args) {
         Leitor leitor = new Leitor();
-        int quantidadeAlunos = 1;
+        int quantidadeAlunos = 3;
         Aluno[] alunos = new Aluno[quantidadeAlunos];
 
         for(int i = 0; i < quantidadeAlunos; i++) {

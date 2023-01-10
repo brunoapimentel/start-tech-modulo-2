@@ -1,4 +1,4 @@
-package notasalunos;
+package lista1e2.notasalunos;
 
 import utils.Leitor;
 

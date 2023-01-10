@@ -1,4 +1,4 @@
-package piscina;
+package lista1e2.piscina;
 
 import utils.Leitor;
 
@@ -12,6 +12,6 @@ public class Main {
 
         Piscina piscina = new Piscina(largura, comprimento, profundidade);
         System.out.println(piscina);
-        System.out.printf("O volume da piscina é %.2f m³.", piscina.calcularVolume());
+        System.out.printf("O volume da lista1e2.piscina é %.2f m³.", piscina.calcularVolume());
     }
 }

@@ -1,4 +1,4 @@
-package dnd;
+package lista3.dnd;
 
 public class Arma {
     private String nome;

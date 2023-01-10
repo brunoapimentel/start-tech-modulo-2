@@ -1,4 +1,4 @@
-package baralho;
+package lista1e2.baralho;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package grupoalunos;
+package aulas.encapsulamento;
 
 public class Aluno {
     private String nome;
